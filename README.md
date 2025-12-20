@@ -15,5 +15,6 @@
 - 📂 Solutions are in folder: `com.headfirstdesignpatterns.chapter01`
 - 📄 Exercises from the book:
     - Page 18–19 — Testing the Duck code
+    - Page 20–21 — Setting behavior dynamically
 
 ![Chapter 1](images/chapter-01.png)
