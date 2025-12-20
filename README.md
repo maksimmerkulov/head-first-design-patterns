@@ -7,3 +7,13 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ![Cover](images/cover.png)
+
+---
+
+## 📘 Chapter 1. Intro to Design Patterns: Welcome to Design Patterns
+
+- 📂 Solutions are in folder: `com.headfirstdesignpatterns.chapter01`
+- 📄 Exercises from the book:
+    - Page 18–19 — Testing the Duck code
+
+![Chapter 1](images/chapter-01.png)
