@@ -18,3 +18,13 @@
     - Page 20–21 — Setting behavior dynamically
 
 ![Chapter 1](images/chapter-01.png)
+
+---
+
+## 📘 Chapter 2. The Observer Pattern: Keeping your Objects in the Know
+
+- 📂 Solutions are in folder: `com.headfirstdesignpatterns.chapter02`
+- 📄 Exercises from the book:
+    - Page 57–60 — Implementing the Weather Station
+
+![Chapter 2](images/chapter-02.png)
