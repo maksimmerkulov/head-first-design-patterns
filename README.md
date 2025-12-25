@@ -26,5 +26,6 @@
 - 📂 Solutions are in folder: `com.headfirstdesignpatterns.chapter02`
 - 📄 Exercises from the book:
     - Page 57–60 — Implementing the Weather Station
+    - Page 61 — Sharpen your pencil
 
 ![Chapter 2](images/chapter-02.png)
