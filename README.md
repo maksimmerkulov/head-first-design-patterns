@@ -27,5 +27,6 @@
 - 📄 Exercises from the book:
     - Page 57–60 — Implementing the Weather Station
     - Page 61 — Sharpen your pencil
+    - Page 64–70 — Using Java's built-in Observer Pattern
 
 ![Chapter 2](images/chapter-02.png)
