@@ -39,5 +39,6 @@
 - 📂 Solutions are in folder: `com.headfirstdesignpatterns.chapter03`
 - 📄 Exercises from the book:
     - Page 95–98 — Writing the Starbuzz code
+    - Page 99 — Sharpen your pencil
 
 ![Chapter 3](images/chapter-03.png)
