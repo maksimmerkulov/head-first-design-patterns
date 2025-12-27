@@ -31,3 +31,13 @@
     - Page 71–73 — The dark side of java.util.Observable
 
 ![Chapter 2](images/chapter-02.png)
+
+---
+
+## 📘 Chapter 3. The Decorator Pattern: Decorating Objects
+
+- 📂 Solutions are in folder: `com.headfirstdesignpatterns.chapter03`
+- 📄 Exercises from the book:
+    - Page 95–98 — Writing the Starbuzz code
+
+![Chapter 3](images/chapter-03.png)
