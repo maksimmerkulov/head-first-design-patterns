@@ -40,5 +40,6 @@
 - 📄 Exercises from the book:
     - Page 95–98 — Writing the Starbuzz code
     - Page 99 — Sharpen your pencil
+    - Page 102–103 — Writing your own Java I/O Decorator
 
 ![Chapter 3](images/chapter-03.png)
