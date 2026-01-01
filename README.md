@@ -43,3 +43,13 @@
     - Page 102–103 — Writing your own Java I/O Decorator
 
 ![Chapter 3](images/chapter-03.png)
+
+---
+
+## 📘 Chapter 4. The Factory Pattern: Baking with OO Goodness
+
+- 📂 Solutions are in folder: `com.headfirstdesignpatterns.chapter04`
+- 📄 Exercises from the book:
+    - Page 115–117 — Building a simple pizza factory
+
+![Chapter 4](images/chapter-04.png)
