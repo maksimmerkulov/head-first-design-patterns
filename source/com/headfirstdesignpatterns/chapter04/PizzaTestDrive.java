@@ -3,13 +3,13 @@ package com.headfirstdesignpatterns.chapter04;
 public class PizzaTestDrive {
 
     public static void main(String[] args) {
-        SimplePizzaFactory factory = new SimplePizzaFactory();
-        PizzaStore store = new PizzaStore(factory);
+        PizzaStore nyStore = new NYPizzaStore();
+        PizzaStore chicagoStore = new ChicagoPizzaStore();
 
-        Pizza pizza = store.orderPizza("cheese");
-        System.out.println("We ordered a " + pizza.getName() + "\n");
+        Pizza pizza = nyStore.orderPizza("cheese");
+        System.out.println("Ethan ordered a " + pizza.getName() + "\n");
 
-        pizza = store.orderPizza("veggie");
-        System.out.println("We ordered a " + pizza.getName() + "\n");
+        pizza = chicagoStore.orderPizza("cheese");
+        System.out.println("Joel ordered a " + pizza.getName() + "\n");
     }
 }

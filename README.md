@@ -51,5 +51,6 @@
 - 📂 Solutions are in folder: `com.headfirstdesignpatterns.chapter04`
 - 📄 Exercises from the book:
     - Page 115–117 — Building a simple pizza factory
+    - Page 118–130 — Franchising the Pizza Store
 
 ![Chapter 4](images/chapter-04.png)
