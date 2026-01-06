@@ -53,5 +53,6 @@
     - Page 115–117 — Building a simple pizza factory
     - Page 118–130 — Franchising the Pizza Store
     - Page 137 — A very dependent PizzaStore
+    - Page 146–152 — Building the ingredient factories
 
 ![Chapter 4](images/chapter-04.png)
