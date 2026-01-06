@@ -52,5 +52,6 @@
 - 📄 Exercises from the book:
     - Page 115–117 — Building a simple pizza factory
     - Page 118–130 — Franchising the Pizza Store
+    - Page 137 — A very dependent PizzaStore
 
 ![Chapter 4](images/chapter-04.png)
