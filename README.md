@@ -56,3 +56,13 @@
     - Page 146–152 — Building the ingredient factories
 
 ![Chapter 4](images/chapter-04.png)
+
+---
+
+## 📘 Chapter 5. The Singleton Pattern: One of a Kind Objects
+
+- 📂 Solutions are in folder: `com.headfirstdesignpatterns.chapter05`
+- 📄 Exercises from the book:
+    - Page 171–172 — The Little Singleton
+
+![Chapter 5](images/chapter-05.png)
