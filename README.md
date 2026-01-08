@@ -66,5 +66,6 @@
     - Page 171–172 — The Little Singleton
     - Page 173 — Dissecting the classic Singleton Pattern implementation
     - Page 175 — The Chocolate Factory
+    - Page 176 — Sharpen your pencil
 
 ![Chapter 5](images/chapter-05.png)
