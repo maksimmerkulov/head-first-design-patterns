@@ -64,5 +64,6 @@
 - 📂 Solutions are in folder: `com.headfirstdesignpatterns.chapter05`
 - 📄 Exercises from the book:
     - Page 171–172 — The Little Singleton
+    - Page 173 — Dissecting the classic Singleton Pattern implementation
 
 ![Chapter 5](images/chapter-05.png)
