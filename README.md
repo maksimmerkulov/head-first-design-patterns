@@ -78,5 +78,6 @@
 - 📂 Solutions are in folder: `com.headfirstdesignpatterns.chapter06`
 - 📄 Exercises from the book:
     - Page 203–204 — Our first command object
+    - Page 205 — Sharpen your pencil
 
 ![Chapter 6](images/chapter-06.png)
