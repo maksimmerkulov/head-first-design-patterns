@@ -70,3 +70,13 @@
     - Page 180–183 — Dealing with multithreading
 
 ![Chapter 5](images/chapter-05.png)
+
+---
+
+## 📘 Chapter 6. The Command Pattern: Encapsulating Invocation
+
+- 📂 Solutions are in folder: `com.headfirstdesignpatterns.chapter06`
+- 📄 Exercises from the book:
+    - Page 203–204 — Our first command object
+
+![Chapter 6](images/chapter-06.png)
